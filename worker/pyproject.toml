@@ -23,6 +23,7 @@ dependencies = [
     "torchvision==0.14.1",
     "whispercppy>=0.0.2",
     "lightning-lite>=1.8.6",
+    "lightning-fabric>=2.0.2",
 ]
 
 requires-python = ">=3.10"
